@@ -21,6 +21,7 @@
   <a href="https://v.douyin.com/rigKG7bSGTg"><img width="87" src="assets/badges/s-douyin.png" alt="抖音 @小奇说"></a>
   <a href="https://space.bilibili.com/327359413"><img width="92" src="assets/badges/s-bilibili.png" alt="B站 @小奇说_"></a>
   <a href="https://www.youtube.com/@onesdairys"><img width="115" src="assets/badges/s-youtube.png" alt="YouTube @onesdairys"></a>
+  <a href="https://www.tiktok.com/@onesdairy"><img width="109" src="assets/badges/s-tiktok.png" alt="TikTok @onesdairy"></a>
 </p>
 
 <br>
