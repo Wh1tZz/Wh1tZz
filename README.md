@@ -6,11 +6,11 @@
 
 ### 小奇说
 
-**关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
-**About me**: Tech enthusiast who loves life, sharing and lifelong learning
+<img src="assets/icons/about.svg" width="18" height="18" alt="">&nbsp;**关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
+<img src="assets/icons/blank.svg" width="18" height="18" alt="">&nbsp;**About me**: Tech enthusiast who loves life, sharing and lifelong learning
 
-**找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流<br>
-**Find me**: Making-of posts on the platforms below. Friendly DMs welcome
+<img src="assets/icons/find.svg" width="18" height="18" alt="">&nbsp;**找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流<br>
+<img src="assets/icons/blank.svg" width="18" height="18" alt="">&nbsp;**Find me**: Making-of posts on the platforms below. Friendly DMs welcome
 
 <br clear="left">
 <br>
