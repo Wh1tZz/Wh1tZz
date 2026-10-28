@@ -3,7 +3,7 @@
 
 ### 🕯️ 书桌之上 · Above the Desk
 
-<a href="https://wh1tzz.github.io/above-the-desk/"><img src="assets/above-the-desk.gif" width="100%" alt="书桌之上"></a>
+<a href="https://wh1tzz.github.io/above-the-desk/"><img src="assets/above-the-desk.webp" width="100%" alt="书桌之上"></a>
 
 <a href="https://wh1tzz.github.io/above-the-desk/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-2ea44f?style=for-the-badge" alt="Play"></a>
 <a href="https://github.com/Wh1tZz/above-the-desk"><img src="https://img.shields.io/badge/SOURCE-%E6%BA%90%E7%A0%81-24292f?style=for-the-badge&logo=github" alt="Source"></a>
@@ -17,7 +17,7 @@
 
 ### 🥊 Splat Fighter · 高斯泼溅格斗
 
-<a href="https://wh1tzz.github.io/splat-fighter/"><img src="assets/splat-fighter.gif" width="100%" alt="Splat Fighter"></a>
+<a href="https://wh1tzz.github.io/splat-fighter/"><img src="assets/splat-fighter.webp" width="100%" alt="Splat Fighter"></a>
 
 <a href="https://wh1tzz.github.io/splat-fighter/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-2ea44f?style=for-the-badge" alt="Play"></a>
 <a href="https://github.com/Wh1tZz/splat-fighter"><img src="https://img.shields.io/badge/SOURCE-%E6%BA%90%E7%A0%81-24292f?style=for-the-badge&logo=github" alt="Source"></a>
@@ -31,7 +31,7 @@
 
 ### 🔫 让子弹飞
 
-<a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="assets/let-bullet-fly.gif" width="100%" alt="让子弹飞"></a>
+<a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="assets/let-bullet-fly.webp" width="100%" alt="让子弹飞"></a>
 
 <a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-2ea44f?style=for-the-badge" alt="Play"></a>
 <a href="https://github.com/Wh1tZz/let-bullet-fly"><img src="https://img.shields.io/badge/SOURCE-%E6%BA%90%E7%A0%81-24292f?style=for-the-badge&logo=github" alt="Source"></a>
