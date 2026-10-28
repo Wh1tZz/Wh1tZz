@@ -1,3 +1,15 @@
+<img src="assets/banner.webp" width="100%" alt="小奇说 · Wh1tZz">
+
+<p align="center">
+  <a href="https://x.com/xingbugengming"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"></a>
+  <a href="https://v.douyin.com/rigKG7bSGTg"><img src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音"></a>
+  <a href="https://space.bilibili.com/327359413"><img src="https://img.shields.io/badge/B%E7%AB%99-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站"></a>
+  <a href="https://www.youtube.com/@onesdairys"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
+
+<br>
+
 <h1 align="center">🎮 AI 游戏展</h1>
 <p align="center"><sub>用 AI 做的游戏，点开浏览器就能玩</sub></p>
 
