@@ -12,11 +12,11 @@
 <br clear="left">
 
 <p align="center">
-  <a href="https://x.com/xingbugengming"><img width="53" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img width="92" src="assets/badge-xiaohongshu.svg" alt="小红书"></a>
-  <a href="https://v.douyin.com/rigKG7bSGTg"><img width="77" src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音"></a>
-  <a href="https://space.bilibili.com/327359413"><img width="71" src="https://img.shields.io/badge/B%E7%AB%99-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="B站"></a>
-  <a href="https://www.youtube.com/@onesdairys"><img width="113" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://x.com/xingbugengming"><img width="196" src="https://img.shields.io/badge/%40xingbugengming-000000?style=flat-square&logo=x&logoColor=white" alt="X @xingbugengming"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img width="110" src="assets/badge-xiaohongshu.svg" alt="小红书 @小奇说"></a>
+  <a href="https://v.douyin.com/rigKG7bSGTg"><img width="110" src="https://img.shields.io/badge/%40%E5%B0%8F%E5%A5%87%E8%AF%B4-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音 @小奇说"></a>
+  <a href="https://space.bilibili.com/327359413"><img width="118" src="https://img.shields.io/badge/%40%E5%B0%8F%E5%A5%87%E8%AF%B4__-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="B站 @小奇说_"></a>
+  <a href="https://www.youtube.com/@onesdairys"><img width="148" src="https://img.shields.io/badge/%40onesdairys-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube @onesdairys"></a>
 </p>
 
 <br>
