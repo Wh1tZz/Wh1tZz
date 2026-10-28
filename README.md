@@ -2,77 +2,96 @@
 
 <br>
 
-<img src="assets/avatar.png" align="left" width="128" alt="小奇说">
+<img src="assets/avatar.png" align="left" width="160" alt="小奇说">
 
 ### 小奇说
 
 🌱 **关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
-💬 **找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流
+<sub>**About me**: a tech enthusiast who loves life, sharing and listening, and never stops learning</sub><br>
+💬 **找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流<br>
+<sub>**Find me**: I share how everything is made on the platforms below. Friendly DMs welcome</sub>
 
 <br clear="left">
+<br>
 
 <p align="center">
-  <a href="https://x.com/xingbugengming"><img width="196" src="https://img.shields.io/badge/%40xingbugengming-000000?style=flat-square&logo=x&logoColor=white" alt="X @xingbugengming"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img width="110" src="assets/badge-xiaohongshu.svg" alt="小红书 @小奇说"></a>
-  <a href="https://v.douyin.com/rigKG7bSGTg"><img width="110" src="https://img.shields.io/badge/%40%E5%B0%8F%E5%A5%87%E8%AF%B4-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音 @小奇说"></a>
-  <a href="https://space.bilibili.com/327359413"><img width="118" src="https://img.shields.io/badge/%40%E5%B0%8F%E5%A5%87%E8%AF%B4__-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="B站 @小奇说_"></a>
-  <a href="https://www.youtube.com/@onesdairys"><img width="148" src="https://img.shields.io/badge/%40onesdairys-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube @onesdairys"></a>
+  <a href="https://x.com/xingbugengming"><img width="149" src="assets/badges/s-x.png" alt="X @xingbugengming"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img width="87" src="assets/badges/s-xiaohongshu.png" alt="小红书 @小奇说"></a>
+  <a href="https://v.douyin.com/rigKG7bSGTg"><img width="87" src="assets/badges/s-douyin.png" alt="抖音 @小奇说"></a>
+  <a href="https://space.bilibili.com/327359413"><img width="92" src="assets/badges/s-bilibili.png" alt="B站 @小奇说_"></a>
+  <a href="https://www.youtube.com/@onesdairys"><img width="115" src="assets/badges/s-youtube.png" alt="YouTube @onesdairys"></a>
 </p>
 
 <br>
 
-<h1 align="center">🎮 AI 游戏展</h1>
-<p align="center"><sub>用 AI 做的游戏，点开浏览器就能玩</sub></p>
+<h1 align="center">🎮 AI 游戏展 · AI Game Exhibition</h1>
 
 ### 🕯️ 书桌之上 · Above the Desk
 
-<a href="https://wh1tzz.github.io/above-the-desk/"><img src="assets/above-the-desk.webp" width="100%" alt="书桌之上"></a>
+<a href="https://wh1tzz.github.io/above-the-desk/"><img src="assets/above-the-desk.webp" width="100%" alt="书桌之上 Above the Desk"></a>
 
-<a href="https://wh1tzz.github.io/above-the-desk/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-2ea44f?style=for-the-badge" alt="Play"></a>
-<a href="https://github.com/Wh1tZz/above-the-desk"><img src="https://img.shields.io/badge/SOURCE-%E6%BA%90%E7%A0%81-24292f?style=for-the-badge&logo=github" alt="Source"></a>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs" alt="Three.js">
-<img src="https://img.shields.io/badge/Kimi-1c1c1c?style=for-the-badge" alt="Kimi">
-<img src="https://img.shields.io/badge/Tripo-1c1c1c?style=for-the-badge" alt="Tripo">
+<p>
+  <a href="https://wh1tzz.github.io/above-the-desk/"><img width="148" src="assets/badges/g-play.png" alt="在线游玩 Play"></a>
+  <a href="https://github.com/Wh1tZz/above-the-desk"><img width="139" src="assets/badges/g-source.png" alt="源码 Source"></a>
+</p>
+<p>
+  <img width="71" src="assets/badges/c-kimi.png" alt="Kimi">
+  <img width="76" src="assets/badges/c-tripo.png" alt="Tripo">
+  <img width="95" src="assets/badges/t-threejs.png" alt="Three.js">
+</p>
 
-> 午夜，一个小人在巨人的书桌上开始漫长的旅程：铅笔搭成桥，躲开巨手，乘上夜航小火车，按下打字机印出遗失的书页。
+> 午夜，一个小人在巨人的书桌上开始漫长的旅程：铅笔搭成桥，躲开巨手，乘上夜航小火车，按下打字机印出遗失的书页。<br>
+> <sub>At midnight, a tiny courier sets off across a giant's desk: pencils become bridges, a giant hand must be avoided, a night train carries you on, and a typewriter prints the lost pages.</sub>
 
 <br>
 
 ### 🥊 Splat Fighter · 高斯泼溅格斗
 
-<a href="https://wh1tzz.github.io/splat-fighter/"><img src="assets/splat-fighter.webp" width="100%" alt="Splat Fighter"></a>
+<a href="https://wh1tzz.github.io/splat-fighter/"><img src="assets/splat-fighter.webp" width="100%" alt="Splat Fighter 高斯泼溅格斗"></a>
 
-<a href="https://wh1tzz.github.io/splat-fighter/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-2ea44f?style=for-the-badge" alt="Play"></a>
-<a href="https://github.com/Wh1tZz/splat-fighter"><img src="https://img.shields.io/badge/SOURCE-%E6%BA%90%E7%A0%81-24292f?style=for-the-badge&logo=github" alt="Source"></a>
-<img src="https://img.shields.io/badge/Gaussian%20Splatting-7b2ff7?style=for-the-badge" alt="Gaussian Splatting">
-<img src="https://img.shields.io/badge/PINOC-1c1c1c?style=for-the-badge" alt="PINOC">
-<img src="https://img.shields.io/badge/PlayCanvas-e05f2c?style=for-the-badge" alt="PlayCanvas">
+<p>
+  <a href="https://wh1tzz.github.io/splat-fighter/"><img width="148" src="assets/badges/g-play.png" alt="在线游玩 Play"></a>
+  <a href="https://github.com/Wh1tZz/splat-fighter"><img width="139" src="assets/badges/g-source.png" alt="源码 Source"></a>
+</p>
+<p>
+  <img width="125" src="assets/badges/c-claudecode.png" alt="Claude Code">
+  <img width="85" src="assets/badges/c-pinoc.png" alt="PINOC">
+  <img width="140" src="assets/badges/t-gaussian.png" alt="Gaussian Splatting">
+  <img width="118" src="assets/badges/t-playcanvas.png" alt="PlayCanvas">
+</p>
 
-> 网页 1v1 格斗。角色、动作和擂台全部由 PINOC 生成，3D 高斯泼溅实时渲染。4 名格斗家、4 张地图、必杀演出，手机横屏也能玩。
-
-<br>
-
-### 🔫 让子弹飞
-
-<a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="assets/let-bullet-fly.webp" width="100%" alt="让子弹飞"></a>
-
-<a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-2ea44f?style=for-the-badge" alt="Play"></a>
-<a href="https://github.com/Wh1tZz/let-bullet-fly"><img src="https://img.shields.io/badge/SOURCE-%E6%BA%90%E7%A0%81-24292f?style=for-the-badge&logo=github" alt="Source"></a>
-<img src="https://img.shields.io/badge/Matter.js-4b5562?style=for-the-badge" alt="Matter.js">
-<img src="https://img.shields.io/badge/Canvas%202D-e34c26?style=for-the-badge" alt="Canvas 2D">
-
-> “让子弹飞”风格的物理解谜射击小游戏：算好角度，一颗子弹解决所有问题。
+> 网页 1v1 格斗。角色、动作和擂台全部由 PINOC 生成，3D 高斯泼溅实时渲染。4 名格斗家、4 张地图、必杀演出，手机横屏也能玩。<br>
+> <sub>A 1v1 browser fighting game. Fighters, moves and arenas are all generated by PINOC and rendered live as 3D Gaussian splats. 4 fighters, 4 arenas, cinematic supers, and it plays on phones in landscape too.</sub>
 
 <br>
+
+### 🔫 让子弹飞 · Let the Bullets Fly
+
+<a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="assets/let-bullet-fly.webp" width="100%" alt="让子弹飞 Let the Bullets Fly"></a>
+
+<p>
+  <a href="https://wh1tzz.github.io/let-bullet-fly/"><img width="148" src="assets/badges/g-play.png" alt="在线游玩 Play"></a>
+  <a href="https://github.com/Wh1tZz/let-bullet-fly"><img width="139" src="assets/badges/g-source.png" alt="源码 Source"></a>
+</p>
+<p>
+  <img width="97" src="assets/badges/c-minimax.png" alt="MiniMax">
+  <img width="76" src="assets/badges/t-matter.png" alt="Matter.js">
+  <img width="89" src="assets/badges/t-canvas.png" alt="Canvas 2D">
+</p>
+
+> “让子弹飞”风格的物理解谜射击小游戏：算好角度，一颗子弹解决所有问题。<br>
+> <sub>A physics puzzle shooter inspired by *Let the Bullets Fly*: find the right angle and let one bullet solve everything.</sub>
+
+<br>
 <br>
 
-<h1 align="center">🧰 工具箱</h1>
-<p align="center"><sub>Agent Skill、动画和网页模板</sub></p>
+<h1 align="center">🧰 工具箱 · Toolbox</h1>
+<p align="center"><sub>Agent Skill、动画和网页模板 · Agent skills, animation and web templates</sub></p>
 
-| 项目 | 类型 | 简介 | Stars |
+| 项目 Project | 类型 Type | 简介 Description | Stars |
 | --- | --- | --- | --- |
-| [Obsidian-through](https://github.com/Wh1tZz/Obsidian-through) | Agent Skill | 免费、私密的 Obsidian 四端同步，走 GitHub | ![](https://img.shields.io/github/stars/Wh1tZz/Obsidian-through?style=flat-square&label=%E2%98%85&color=555) |
-| [xiaoqishuo-card](https://github.com/Wh1tZz/xiaoqishuo-card) | Agent Skill | 上传一张卡面，生成可交互的 Three.js 全息景深卡片 | ![](https://img.shields.io/github/stars/Wh1tZz/xiaoqishuo-card?style=flat-square&label=%E2%98%85&color=555) |
-| [Tibo-Please](https://github.com/Wh1tZz/Tibo-Please) | 动画 | 用 Remotion 写成的 Codex 动画 | ![](https://img.shields.io/github/stars/Wh1tZz/Tibo-Please?style=flat-square&label=%E2%98%85&color=555) |
-| [Creator-AI-Homes](https://github.com/Wh1tZz/Creator-AI-Homes) | 网站模板 | 面向独立创作者的开源 AI / 自媒体个人网站模板 | ![](https://img.shields.io/github/stars/Wh1tZz/Creator-AI-Homes?style=flat-square&label=%E2%98%85&color=555) |
-| [worldcup-2026-site](https://wh1tzz.github.io/worldcup-2026-site/) | 网页 | 2026 世界杯主题落地页 | ![](https://img.shields.io/github/stars/Wh1tZz/worldcup-2026-site?style=flat-square&label=%E2%98%85&color=555) |
+| [Obsidian-through](https://github.com/Wh1tZz/Obsidian-through) | Agent Skill | 免费、私密的 Obsidian 四端同步，走 GitHub<br><sub>Free, private Obsidian sync across four platforms via GitHub</sub> | ![](https://img.shields.io/github/stars/Wh1tZz/Obsidian-through?style=flat-square&label=%E2%98%85&color=555) |
+| [xiaoqishuo-card](https://github.com/Wh1tZz/xiaoqishuo-card) | Agent Skill | 上传一张卡面，生成可交互的 Three.js 全息景深卡片<br><sub>Turn one card cover into an interactive Three.js holographic depth card</sub> | ![](https://img.shields.io/github/stars/Wh1tZz/xiaoqishuo-card?style=flat-square&label=%E2%98%85&color=555) |
+| [Tibo-Please](https://github.com/Wh1tZz/Tibo-Please) | 动画 Animation | 用 Remotion 写成的 Codex 动画<br><sub>A Codex animation written with Remotion</sub> | ![](https://img.shields.io/github/stars/Wh1tZz/Tibo-Please?style=flat-square&label=%E2%98%85&color=555) |
+| [Creator-AI-Homes](https://github.com/Wh1tZz/Creator-AI-Homes) | 网站模板 Template | 面向独立创作者的开源 AI / 自媒体个人网站模板<br><sub>An open-source personal site template for independent AI creators</sub> | ![](https://img.shields.io/github/stars/Wh1tZz/Creator-AI-Homes?style=flat-square&label=%E2%98%85&color=555) |
+| [worldcup-2026-site](https://wh1tzz.github.io/worldcup-2026-site/) | 网页 Web | 2026 世界杯主题落地页<br><sub>A World Cup 2026 landing page</sub> | ![](https://img.shields.io/github/stars/Wh1tZz/worldcup-2026-site?style=flat-square&label=%E2%98%85&color=555) |
