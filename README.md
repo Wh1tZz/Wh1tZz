@@ -4,12 +4,12 @@
 
 <img src="assets/avatar.png" align="left" width="204" alt="小奇说">
 
-### <img src="assets/icons/blank.svg" width="66" height="1" alt="">&nbsp;小奇说
+### <img src="assets/icons/blank.svg" width="58" height="1" alt="">&nbsp;小奇说
 
-<img src="assets/icons/about.png" width="50" height="50" align="left" alt="">**关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
+<img src="assets/icons/about.png" width="42" height="42" align="left" alt="">**关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
 **About me**: Tech enthusiast who loves life, sharing and lifelong learning
 
-<img src="assets/icons/find.png" width="50" height="50" align="left" alt="">**找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流<br>
+<img src="assets/icons/find.png" width="42" height="42" align="left" alt="">**找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流<br>
 **Find me**: Making-of posts on the platforms below. Friendly DMs welcome
 
 <br clear="left">
