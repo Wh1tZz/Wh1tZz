@@ -1,10 +1,10 @@
-<img src="assets/banner.webp" width="100%" alt="小奇说 · Wh1tZz">
+<img src="assets/banner-lava.webp" width="100%" alt="小奇说 · Wh1tZz">
 
 <br>
 
 <img src="assets/avatar.png" align="left" width="128" alt="小奇说">
 
-### 小奇说 <sub>@Wh1tZz</sub>
+### 小奇说
 
 **用 AI 把脑洞做成能玩的东西。**
 
@@ -18,11 +18,11 @@
 - 💬 **找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流
 
 <p>
-  <a href="https://x.com/xingbugengming"><img height="28" src="https://img.shields.io/badge/X-%40xingbugengming-30363d?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="X @xingbugengming"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img height="28" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40%E5%B0%8F%E5%A5%87%E8%AF%B4-30363d?style=flat-square&logo=xiaohongshu&logoColor=white&labelColor=FF2442" alt="小红书 @小奇说"></a>
-  <a href="https://v.douyin.com/rigKG7bSGTg"><img height="28" src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-%40%E5%B0%8F%E5%A5%87%E8%AF%B4-30363d?style=flat-square&logo=tiktok&logoColor=white&labelColor=000000" alt="抖音 @小奇说"></a>
-  <a href="https://space.bilibili.com/327359413"><img height="28" src="https://img.shields.io/badge/B%E7%AB%99-%40%E5%B0%8F%E5%A5%87%E8%AF%B4__-30363d?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6" alt="B站 @小奇说_"></a>
-  <a href="https://www.youtube.com/@onesdairys"><img height="28" src="https://img.shields.io/badge/YouTube-%40onesdairys-30363d?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube @onesdairys"></a>
+  <a href="https://x.com/xingbugengming"><img height="28" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img height="28" src="assets/badge-xiaohongshu.svg" alt="小红书"></a>
+  <a href="https://v.douyin.com/rigKG7bSGTg"><img height="28" src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音"></a>
+  <a href="https://space.bilibili.com/327359413"><img height="28" src="https://img.shields.io/badge/B%E7%AB%99-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="B站"></a>
+  <a href="https://www.youtube.com/@onesdairys"><img height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 <br>
