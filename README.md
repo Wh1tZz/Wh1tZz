@@ -4,13 +4,13 @@
 
 <img src="assets/avatar.png" align="left" width="204" alt="小奇说">
 
-### 小奇说
+### <img src="assets/icons/blank.svg" width="24" height="24" align="top" alt="">&nbsp;小奇说
 
-<img src="assets/icons/about.png" width="24" height="24" alt="">&nbsp;**关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
-<img src="assets/icons/blank.svg" width="24" height="24" alt="">&nbsp;**About me**: Tech enthusiast who loves life, sharing and lifelong learning
+<img src="assets/icons/about.png" width="24" height="24" align="top" alt="">&nbsp;**关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
+<img src="assets/icons/blank.svg" width="24" height="24" align="top" alt="">&nbsp;**About me**: Tech enthusiast who loves life, sharing and lifelong learning
 
-<img src="assets/icons/find.png" width="24" height="24" alt="">&nbsp;**找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流<br>
-<img src="assets/icons/blank.svg" width="24" height="24" alt="">&nbsp;**Find me**: Making-of posts on the platforms below. Friendly DMs welcome
+<img src="assets/icons/find.png" width="24" height="24" align="top" alt="">&nbsp;**找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流<br>
+<img src="assets/icons/blank.svg" width="24" height="24" align="top" alt="">&nbsp;**Find me**: Making-of posts on the platforms below. Friendly DMs welcome
 
 <br clear="left">
 <br>
