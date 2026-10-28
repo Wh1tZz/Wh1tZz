@@ -20,8 +20,8 @@
   <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img width="87" src="assets/badges/s-xiaohongshu.png" alt="小红书 @小奇说"></a>
   <a href="https://v.douyin.com/rigKG7bSGTg"><img width="87" src="assets/badges/s-douyin.png" alt="抖音 @小奇说"></a>
   <a href="https://space.bilibili.com/327359413"><img width="92" src="assets/badges/s-bilibili.png" alt="B站 @小奇说_"></a>
-  <a href="https://www.youtube.com/@onesdairys"><img width="115" src="assets/badges/s-youtube.png" alt="YouTube @onesdairys"></a>
   <a href="https://www.tiktok.com/@onesdairy"><img width="109" src="assets/badges/s-tiktok.png" alt="TikTok @onesdairy"></a>
+  <a href="https://www.youtube.com/@onesdairys"><img width="115" src="assets/badges/s-youtube.png" alt="YouTube @onesdairys"></a>
 </p>
 
 <br>
