@@ -31,8 +31,12 @@
 
 ### 🔫 让子弹飞
 
+<a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="assets/let-bullet-fly.gif" width="100%" alt="让子弹飞"></a>
+
 <a href="https://wh1tzz.github.io/let-bullet-fly/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-2ea44f?style=for-the-badge" alt="Play"></a>
 <a href="https://github.com/Wh1tZz/let-bullet-fly"><img src="https://img.shields.io/badge/SOURCE-%E6%BA%90%E7%A0%81-24292f?style=for-the-badge&logo=github" alt="Source"></a>
+<img src="https://img.shields.io/badge/Matter.js-4b5562?style=for-the-badge" alt="Matter.js">
+<img src="https://img.shields.io/badge/Canvas%202D-e34c26?style=for-the-badge" alt="Canvas 2D">
 
 > “让子弹飞”风格的物理解谜射击小游戏：算好角度，一颗子弹解决所有问题。
 
