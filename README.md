@@ -6,23 +6,17 @@
 
 ### 小奇说
 
-**用 AI 把脑洞做成能玩的东西。**
-
-巨人的书桌、高斯泼溅的擂台、会反弹的子弹，都从一句描述开始。
+🌱 **关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老<br>
+💬 **找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流
 
 <br clear="left">
 
-- 🎮 **在做**：浏览器即玩的 AI 游戏，以及让 AI 更顺手的 Agent Skill
-- 🤝 **搭档**：Claude Code · Codex · Kimi · Tripo · PINOC
-- 🌱 **关于我**：科技爱好者，热爱生活、分享与聆听，活到老学到老
-- 💬 **找到我**：制作过程都会发在下面这些平台，欢迎礼貌私信交流
-
-<p>
-  <a href="https://x.com/xingbugengming"><img height="28" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img height="28" src="assets/badge-xiaohongshu.svg" alt="小红书"></a>
-  <a href="https://v.douyin.com/rigKG7bSGTg"><img height="28" src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音"></a>
-  <a href="https://space.bilibili.com/327359413"><img height="28" src="https://img.shields.io/badge/B%E7%AB%99-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="B站"></a>
-  <a href="https://www.youtube.com/@onesdairys"><img height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<p align="center">
+  <a href="https://x.com/xingbugengming"><img width="70" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5dee667e0000000001009da9"><img width="122" src="assets/badge-xiaohongshu.svg" alt="小红书"></a>
+  <a href="https://v.douyin.com/rigKG7bSGTg"><img width="102" src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音"></a>
+  <a href="https://space.bilibili.com/327359413"><img width="94" src="https://img.shields.io/badge/B%E7%AB%99-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="B站"></a>
+  <a href="https://www.youtube.com/@onesdairys"><img width="150" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 <br>
